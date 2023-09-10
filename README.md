@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum Machine Learning
 - 🌱 I’m currently learning Quantum information theory and Machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : sihoney97@kaist.ac.kr
+- 📫 How to reach me : Siheon.Park@ibm.com
 
 <!---
 Siheon-Park/Siheon-Park is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
